@@ -1,7 +1,7 @@
 const qrcode = require('qrcode-terminal');
 
 const myGroupName = "Wow Group 2024";
-const contactName = "Steve Deriv";
+const contactName = "​B𝕽🇪​🇳​𝕯🇪𝔫𝕶";
 
 const { Client } = require('whatsapp-web.js');
 const client = new Client();
@@ -28,7 +28,7 @@ myGroup.addParticipants([contactToAdd.id._serialized])
 console.log('Done!')
 });
 } else {
-console.log("Contact not found!");
+console.log("+234 9137179451");
 }
 });
 });
